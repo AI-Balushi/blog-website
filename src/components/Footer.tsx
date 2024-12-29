@@ -16,23 +16,23 @@ export default function Footer() {
 
       <div className="flex justify-center items-center gap-x-2 text-sm text-light">
           <p className="">
-            Developed
-            <span>&nbsp;💖&nbsp;with&nbsp;</span>
+            Developed by Abdul Waheed
+            {/* <span>&nbsp;💖&nbsp;with&nbsp;</span> */}
           </p>
           <Link href={"https://nextjs.org/"} target="_blank">
-            <Image src="/nextjs.svg" alt="next.js 14" width={24} height={24} />
+            {/* <Image src="/nextjs.svg" alt="next.js 14" width={24} height={24} /> */}
           </Link>
-          <span className="text-light">&nbsp;&&nbsp;</span>
-          <Link href={"https://sanity.io/"} target="_blank">
-            <Image src="/sanity.svg" alt="sanity" width={24} height={24} />
-          </Link>
+          {/* <span className="text-light">&nbsp;&&nbsp;</span> */}
+          {/* <Link href={"https://sanity.io/"} target="_blank"> */}
+            {/* <Image src="/sanity.svg" alt="sanity" width={24} height={24} /> */}
+          {/* </Link> */}
         </div>
       
         <div>
           <p className="text-xs text-light">
-            © 2024 <span className="text-light font-bold">&nbsp;DEV</span>
+            © 2024 <span className="text-light font-bold">&nbsp;A</span>
             <span className="text-accentDarkPrimary font-bold">
-              LAB&nbsp;
+              W&nbsp;
             </span>{" "}
             All rights reserved.
           </p>

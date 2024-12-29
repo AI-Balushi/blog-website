@@ -1,6 +1,6 @@
 {
-  "name": "simple-blog-styled-template-for-headless-cms",
-  "version": "0.1.0",
+  "name": "blog-website",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
