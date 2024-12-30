@@ -26,7 +26,7 @@ export default function SocialMedia() {
         <Linkedin className={`w-6 h-6`} />
       </Link>
 
-      <Link href={"https://github.com/Em-Aar"} target="_blank">
+      <Link href={"https://github.com/AI-Balushi"} target="_blank">
         <Github className={`w-6 h-6 fill-dark dark:fill-light`} />
       </Link>
 
